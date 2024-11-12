@@ -1005,7 +1005,7 @@ api-tryin: |-
         "projectId" : "137bdf8f-0df9-4a55-8117-a3e7966b7973"
       },
       "variables" : {
-        "0200d751-e5c5-408e-99d1-01145d1960cd" : {
+        "78b42d0c-0d37-44da-99e4-f28108e0bb23" : {
           "name" : "BaseUrl",
           "value" : "https://example.com",
           "enabled" : true,
